@@ -2,6 +2,10 @@
 
 A professional, production-ready Python toolkit for integrating Claude, GPT, and other AI APIs into your applications. Built with best practices for security, error handling, and scalability.
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 ## Features
 
 - **Easy-to-use wrappers** for Claude (Anthropic) and OpenAI APIs
@@ -227,3 +231,27 @@ Built by [Your Name] - [Your Website/GitHub]
 ---
 
 **Need AI integration for your project? Let's talk!**
+
+## What's Next?
+
+This starter kit is actively maintained and improved. Planned features:
+
+- [ ] Add support for Google Gemini API
+- [ ] Streaming response support
+- [ ] Cost tracking and analytics
+- [ ] Multi-language support
+- [ ] Docker deployment guide
+
+**Have a suggestion?** Open an issue or submit a PR!
+
+## About the Author
+
+Built by **Elijah Onyancha** - AI Integration Specialist based in Nairobi, Kenya.
+
+Helping businesses integrate AI into their products and workflows.
+
+📫 **Want to work together?** Connect on [GitHub](https://github.com/Ellyi)
+
+---
+
+⭐ **Star this repo** if you find it useful!
