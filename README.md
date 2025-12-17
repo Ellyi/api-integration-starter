@@ -86,6 +86,17 @@ api-integration-starter/
 └── README.md               # This file
 ```
 
+## Screenshots
+
+### Project Structure
+![Project Structure](screenshot-structure.png)
+
+### Clean, Professional Code
+![Code Example](screenshot-code.png)
+
+### Testing & Validation
+![Test Results](screenshot-test.png)
+
 ## Configuration
 
 The starter kit uses environment variables for configuration. Copy `.env.example` to `.env` and set your values:
